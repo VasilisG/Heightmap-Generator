@@ -32,6 +32,8 @@ heightMapGenerator.saveImage(img, "terrain_6")
 
 Result:
 
+![alt text](https://github.com/VasilisG/Heightmap-Generator/blob/master/images/terrain_2.png)
+
 **Desert landscape**
 
 ```
@@ -49,3 +51,5 @@ heightMapGenerator.saveImage(img, "terrain_6")
 ```
 
 Result:
+
+![alt text](https://github.com/VasilisG/Heightmap-Generator/blob/master/images/terrain_4.png)
