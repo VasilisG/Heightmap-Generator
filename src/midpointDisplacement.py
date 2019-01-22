@@ -1,5 +1,4 @@
 import random
-from PIL import Image
 
 def midpointDisplacement(size):
     matrix = [[0.0 for i in range(size)] for j in range(size)]
