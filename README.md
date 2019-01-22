@@ -1,5 +1,5 @@
 # Heightmap-Generator
-A heightmap generator used for terrain generation made in Python.
+A heightmap generator used for terrain generation made in Python and the [Pillow](https://python-pillow.org/) library.
 
 The algorithms used for terrain generation are:
 
